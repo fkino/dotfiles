@@ -1,0 +1,6 @@
+set kanji-code utf-8
+set output-meta on
+set convert-meta off
+set meta-flag on
+set input-meta on
+set enable-keypad on

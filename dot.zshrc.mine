@@ -1,0 +1,10 @@
+export PATH=/Users/fkino/lib/android-sdk_m5-rc14_mac-x86/tools:$PATH
+export PATH=/usr/local/bin:$PATH
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+export MANPATH=/opt/local/man:$MANPATH
+export DISPLAY=:0.0
+
+export EDITOR=vim
+
+alias here="open ."
+alias vi="gvim"

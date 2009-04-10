@@ -1,0 +1,7 @@
+defencoding utf-8
+encoding utf-8 utf-8
+escape ^Tt
+startup_message off
+
+termcapinfo xterm* ti@:te@
+
